@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+ padding: 0px;
+ vertical-align: top;
+ box-sizing:border-box;
+}
+
+#wrapper {
+    width: 970px;
+    background-color: rgb(140, 71, 71);
+    padding: 5px;
+}
+
+h1 {
+    font-size: 20pt;
+    display: inline-block;
+    min-height: 30px;
+    margin: .5%;
+}
+h2 {
+    font-size: 15pt;
+    display: inline-block;
+    min-height: 30px;
+    margin: 1%;
+}
+img {
+    height: 75%;
+    width: 75%;
+}
